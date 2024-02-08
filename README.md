@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to work on a good web-dev project
+I'm looking to work on a great web-dev project to enhance my skills and experience!
 
 
 # 💻 Tech Stack:
